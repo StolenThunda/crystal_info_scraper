@@ -1,0 +1,16 @@
+{
+  "name": "crystal_info_scraper",
+  "version": "1.0.0",
+  "description": "Scrape web for crystal info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Moses",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "json-server": "^0.17.0",
+    "puppeteer": "^14.1.1"
+  }
+}
